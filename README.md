@@ -105,22 +105,6 @@ After running the command three files will be generated:
 #### Example 2 explaination:
 A dependency conflict occurs because the project explicitly requires oauthlib==2.*, while jupyterhub (>=0.8)—specifically its latest version 4.1.5—depends on oauthlib>=3.0. This transitive dependency creates an incompatibility. To resolve it, SMTpip finds a version of jupyterhub without conflicts (here, jupyterhub 0.9.1).
 
-
-### Example 3
-The `requirements.txt` contains
-```bash
-idna>2.6
-requests==2.22.0
-```
-Now run the below command to input this `requirements.txt` into `SMTpip` to solve it.
-```bash
-python .\SMTpip.py -d .\example_python_project_3\
-```
-After running the command three files will be generated:
-1. `install_script.txt` - Contains the resolved packages and their versions along with python version required.
-2. `execution_log.txt` - Contains the the time taken in each step of the program.
-3. `SMT_expression.txt` - Contains the SMT encoding for this example project. This file is generated to show our SMT encoding details.
-
 ### Example 3
 The `requirements.txt` contains
 ```bash
