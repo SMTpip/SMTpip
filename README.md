@@ -41,7 +41,7 @@ Step 4: Once installed, Extract the `KGraph.json` in the same directory. SMTpip 
 
 
 ## How to Use SMTpip
-There are 3 example Python projects. Each example contains a `program.py` and `requirements.txt` file.
+There are 3 example Python projects named `example_python_project`. Each example contains a `program.py` and `requirements.txt` file.
 
 ### Example 1
 The `requirements.txt` contains
