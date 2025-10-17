@@ -33,7 +33,8 @@ Step 3: Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
-Step 4: Once installed, Extract the `KGraph.json` in the same directory. SMTpip is ready to use.
+Step 4: Once installed, Extract the `KGraph.zip` and make sure the `KGraph.json` remains in the directory ".\SMTpip\" 
+SMTpip is ready to use.
 
 
 ## How to Use SMTpip
