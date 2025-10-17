@@ -1,0 +1,7 @@
+2025-10-16 23:00:37,965 - INFO - Input files successfully read.
+2025-10-16 23:00:37,965 - INFO - Reading files execution time: 0.57 seconds
+2025-10-16 23:00:37,965 - INFO - Parsing requirements execution time: 0.00 seconds
+2025-10-16 23:00:37,972 - INFO - Fetching dependencies execution time: 0.01 seconds
+2025-10-16 23:00:38,057 - INFO - Generating SMT expression execution time: 0.03 seconds
+2025-10-16 23:00:38,066 - INFO - SMT expression saved to: .\example_python_project_3\SMT_expression.txt
+2025-10-16 23:00:38,066 - ERROR - Not satisfiable: b'there is no current proof'
