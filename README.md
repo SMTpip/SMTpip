@@ -39,7 +39,7 @@ SMTpip is ready to use.
 
 
 ## How to Use SMTpip
-There are 3 example Python projects named `example_python_project`. Each example contains a `program.py` and `requirements.txt` file.
+There are 3 example Python projects named `example_python_project`. Each `example_python_project` folder contains a `program.py` and `requirements.txt` file.
 
 ### Example 1
 The `requirements.txt` contains
