@@ -19,7 +19,7 @@ Follow these steps to install SMTpip on your system:
 Step 1: Clone the repository.
 
 ```bash
-git clone https://github.com/SMTpip/SMTpip_tool.git
+git clone https://github.com/SMTpip/SMTpip.git
 ```
 
 Step 2: Create a virtual environment.
