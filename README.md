@@ -117,5 +117,5 @@ After running the command three files will be generated:
 3. `SMT_expression.txt` - Contains the SMT encoding for this example project. This file is generated to show our SMT encoding details.
 
 
-#### Example 2 explaination:
+#### Example 3 explaination:
 A dependency conflict arises because the project requires requests ≥ 2.26.0, while googlesearch-python == 1.1.0 depends on requests ≤ 2.25.1. This incompatibility stems from googlesearch-python’s transitive dependency on an older version of requests. SMTpip detects a dependency conflict and shows `Not satisfiable.`
