@@ -1,9 +1,5 @@
 # SMTpip: A Tool for Resolving Dependency Conflicts in Python Projects
 
-## Overview
-
-SMTpip is a tool designed to assist developers in resolving dependency conflicts in Python projects. This guide provides a comprehensive walkthrough of using SMTpip, including installation instructions, usage scenarios, and practical examples.
-
 ### Where to Find SMTpip
 
 SMTpip is open-source and hosted on GitHub. You can access and download the tool from the following link:
