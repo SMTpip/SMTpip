@@ -113,7 +113,7 @@ googlesearch_python==1.1.0
 ```
 Now run the below command to input this `requirements.txt` into `SMTpip` to solve it.
 ```bash
-python .\SMTpip.py -d .\example_2\
+python .\SMTpip.py -d .\example_python_project_3\
 ```
 After running the command three files will be generated:
 1. `install_script.txt` - Contains the resolved packages and their versions along with python version required.
