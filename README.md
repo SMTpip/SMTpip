@@ -8,7 +8,7 @@ SMTpip is a tool designed to assist developers in resolving dependency conflicts
 
 SMTpip is open-source and hosted on GitHub. You can access and download the tool from the following link:
 
-https://github.com/SMTpip/SMTpip_tool.git
+[https://github.com/SMTpip/SMTpip_tool.git](https://github.com/SMTpip/SMTpip.git)
 
 ### System Requirements
 
