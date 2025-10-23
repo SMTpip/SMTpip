@@ -1,0 +1,792 @@
+(declare-fun requests==2.31.0 () Bool)
+(declare-fun requests==2.30.0 () Bool)
+(declare-fun requests==2.29.0 () Bool)
+(declare-fun requests==2.28.2 () Bool)
+(declare-fun requests==2.28.1 () Bool)
+(declare-fun requests==2.28.0 () Bool)
+(declare-fun requests==2.27.1 () Bool)
+(declare-fun requests==2.27.0 () Bool)
+(declare-fun requests==2.26.0 () Bool)
+(declare-fun requests==2.25.1 () Bool)
+(declare-fun googlesearch_python==1.1.0 () Bool)
+(declare-fun urllib3==2.2.1 () Bool)
+(declare-fun urllib3==2.2.0 () Bool)
+(declare-fun urllib3==2.1.0 () Bool)
+(declare-fun urllib3==2.0.7 () Bool)
+(declare-fun urllib3==2.0.6 () Bool)
+(declare-fun urllib3==2.0.5 () Bool)
+(declare-fun urllib3==2.0.4 () Bool)
+(declare-fun urllib3==2.0.3 () Bool)
+(declare-fun urllib3==2.0.2 () Bool)
+(declare-fun urllib3==2.0.1 () Bool)
+(declare-fun urllib3==2.0.0a4 () Bool)
+(declare-fun urllib3==2.0.0a3 () Bool)
+(declare-fun urllib3==2.0.0a2 () Bool)
+(declare-fun urllib3==2.0.0a1 () Bool)
+(declare-fun urllib3==2.0.0 () Bool)
+(declare-fun urllib3==1.26.9 () Bool)
+(declare-fun urllib3==1.26.8 () Bool)
+(declare-fun urllib3==1.26.7 () Bool)
+(declare-fun urllib3==1.26.6 () Bool)
+(declare-fun urllib3==1.26.5 () Bool)
+(declare-fun urllib3==1.26.4 () Bool)
+(declare-fun urllib3==1.26.3 () Bool)
+(declare-fun urllib3==1.26.2 () Bool)
+(declare-fun urllib3==1.26.18 () Bool)
+(declare-fun urllib3==1.26.17 () Bool)
+(declare-fun urllib3==1.26.16 () Bool)
+(declare-fun urllib3==1.26.15 () Bool)
+(declare-fun urllib3==1.26.14 () Bool)
+(declare-fun urllib3==1.26.13 () Bool)
+(declare-fun urllib3==1.26.12 () Bool)
+(declare-fun urllib3==1.26.11 () Bool)
+(declare-fun urllib3==1.26.10 () Bool)
+(declare-fun urllib3==1.26.1 () Bool)
+(declare-fun urllib3==1.26.0 () Bool)
+(declare-fun urllib3==1.25.9 () Bool)
+(declare-fun urllib3==1.25.8 () Bool)
+(declare-fun urllib3==1.25.7 () Bool)
+(declare-fun urllib3==1.25.6 () Bool)
+(declare-fun urllib3==1.25.5 () Bool)
+(declare-fun urllib3==1.25.4 () Bool)
+(declare-fun urllib3==1.25.3 () Bool)
+(declare-fun urllib3==1.25.2 () Bool)
+(declare-fun urllib3==1.25.11 () Bool)
+(declare-fun urllib3==1.25.10 () Bool)
+(declare-fun urllib3==1.25.1 () Bool)
+(declare-fun urllib3==1.25 () Bool)
+(declare-fun urllib3==1.24.3 () Bool)
+(declare-fun urllib3==1.24.2 () Bool)
+(declare-fun urllib3==1.24.1 () Bool)
+(declare-fun urllib3==1.24 () Bool)
+(declare-fun urllib3==1.23 () Bool)
+(declare-fun urllib3==1.22 () Bool)
+(declare-fun urllib3==1.21.1 () Bool)
+(declare-fun chardet==4.0.0 () Bool)
+(declare-fun chardet==3.0.4 () Bool)
+(declare-fun chardet==3.0.3 () Bool)
+(declare-fun chardet==3.0.2 () Bool)
+(declare-fun beautifulsoup4==4.9.3 () Bool)
+(declare-fun certifi==2024.2.2 () Bool)
+(declare-fun certifi==2023.7.22 () Bool)
+(declare-fun certifi==2023.5.7 () Bool)
+(declare-fun certifi==2023.11.17 () Bool)
+(declare-fun certifi==2022.9.24 () Bool)
+(declare-fun certifi==2022.9.14 () Bool)
+(declare-fun certifi==2022.6.15.2 () Bool)
+(declare-fun certifi==2022.6.15.1 () Bool)
+(declare-fun certifi==2022.6.15 () Bool)
+(declare-fun certifi==2022.5.18.1 () Bool)
+(declare-fun certifi==2022.5.18 () Bool)
+(declare-fun certifi==2022.12.7 () Bool)
+(declare-fun certifi==2021.5.30 () Bool)
+(declare-fun certifi==2021.10.8 () Bool)
+(declare-fun certifi==2020.6.20 () Bool)
+(declare-fun certifi==2020.4.5.2 () Bool)
+(declare-fun certifi==2020.4.5.1 () Bool)
+(declare-fun certifi==2020.4.5 () Bool)
+(declare-fun certifi==2020.12.5 () Bool)
+(declare-fun certifi==2020.11.8 () Bool)
+(declare-fun certifi==2019.9.11 () Bool)
+(declare-fun certifi==2019.6.16 () Bool)
+(declare-fun certifi==2019.3.9 () Bool)
+(declare-fun certifi==2019.11.28 () Bool)
+(declare-fun certifi==2018.8.24 () Bool)
+(declare-fun certifi==2018.8.13 () Bool)
+(declare-fun certifi==2018.4.16 () Bool)
+(declare-fun certifi==2018.11.29 () Bool)
+(declare-fun certifi==2018.10.15 () Bool)
+(declare-fun certifi==2018.1.18 () Bool)
+(declare-fun certifi==2017.7.27.1 () Bool)
+(declare-fun certifi==2017.7.27 () Bool)
+(declare-fun certifi==2017.4.17 () Bool)
+(declare-fun certifi==2017.11.5 () Bool)
+(declare-fun idna==3.7 () Bool)
+(declare-fun idna==3.6 () Bool)
+(declare-fun idna==3.5 () Bool)
+(declare-fun idna==3.4 () Bool)
+(declare-fun idna==3.3 () Bool)
+(declare-fun idna==3.2 () Bool)
+(declare-fun idna==3.1 () Bool)
+(declare-fun idna==3.0 () Bool)
+(declare-fun idna==2.9 () Bool)
+(declare-fun idna==2.8 () Bool)
+(declare-fun idna==2.7 () Bool)
+(declare-fun idna==2.6 () Bool)
+(declare-fun idna==2.5 () Bool)
+(declare-fun idna==2.10 () Bool)
+(declare-fun charset-normalizer==3.3.2 () Bool)
+(declare-fun charset-normalizer==3.3.1 () Bool)
+(declare-fun charset-normalizer==3.3.0 () Bool)
+(declare-fun charset-normalizer==3.2.0 () Bool)
+(declare-fun charset-normalizer==3.1.0 () Bool)
+(declare-fun charset-normalizer==3.0.1 () Bool)
+(declare-fun charset-normalizer==3.0.0rc1 () Bool)
+(declare-fun charset-normalizer==3.0.0b2 () Bool)
+(declare-fun charset-normalizer==3.0.0b1 () Bool)
+(declare-fun charset-normalizer==3.0.0 () Bool)
+(declare-fun charset-normalizer==2.1.1 () Bool)
+(declare-fun charset-normalizer==2.1.0 () Bool)
+(declare-fun charset-normalizer==2.0.9 () Bool)
+(declare-fun charset-normalizer==2.0.8 () Bool)
+(declare-fun charset-normalizer==2.0.7 () Bool)
+(declare-fun charset-normalizer==2.0.6 () Bool)
+(declare-fun charset-normalizer==2.0.5 () Bool)
+(declare-fun charset-normalizer==2.0.4 () Bool)
+(declare-fun charset-normalizer==2.0.3 () Bool)
+(declare-fun charset-normalizer==2.0.2 () Bool)
+(declare-fun charset-normalizer==2.0.12 () Bool)
+(declare-fun charset-normalizer==2.0.11 () Bool)
+(declare-fun charset-normalizer==2.0.10 () Bool)
+(declare-fun charset-normalizer==2.0.1 () Bool)
+(declare-fun charset-normalizer==2.0.0 () Bool)
+(assert ((_ at-most 1)
+  requests==2.25.1
+  requests==2.26.0
+  requests==2.27.0
+  requests==2.27.1
+  requests==2.28.0
+  requests==2.28.1
+  requests==2.28.2
+  requests==2.29.0
+  requests==2.30.0
+  requests==2.31.0))
+(assert ((_ at-most 1) googlesearch_python==1.1.0))
+(assert ((_ at-most 1)
+  urllib3==1.21.1
+  urllib3==1.22
+  urllib3==1.23
+  urllib3==1.24
+  urllib3==1.24.1
+  urllib3==1.24.2
+  urllib3==1.24.3
+  urllib3==1.25
+  urllib3==1.25.1
+  urllib3==1.25.10
+  urllib3==1.25.11
+  urllib3==1.25.2
+  urllib3==1.25.3
+  urllib3==1.25.4
+  urllib3==1.25.5
+  urllib3==1.25.6
+  urllib3==1.25.7
+  urllib3==1.25.8
+  urllib3==1.25.9
+  urllib3==1.26.0
+  urllib3==1.26.1
+  urllib3==1.26.10
+  urllib3==1.26.11
+  urllib3==1.26.12
+  urllib3==1.26.13
+  urllib3==1.26.14
+  urllib3==1.26.15
+  urllib3==1.26.16
+  urllib3==1.26.17
+  urllib3==1.26.18
+  urllib3==1.26.2
+  urllib3==1.26.3
+  urllib3==1.26.4
+  urllib3==1.26.5
+  urllib3==1.26.6
+  urllib3==1.26.7
+  urllib3==1.26.8
+  urllib3==1.26.9
+  urllib3==2.0.0
+  urllib3==2.0.0a1
+  urllib3==2.0.0a2
+  urllib3==2.0.0a3
+  urllib3==2.0.0a4
+  urllib3==2.0.1
+  urllib3==2.0.2
+  urllib3==2.0.3
+  urllib3==2.0.4
+  urllib3==2.0.5
+  urllib3==2.0.6
+  urllib3==2.0.7
+  urllib3==2.1.0
+  urllib3==2.2.0
+  urllib3==2.2.1))
+(assert ((_ at-most 1) chardet==3.0.2 chardet==3.0.3 chardet==3.0.4 chardet==4.0.0))
+(assert ((_ at-most 1) beautifulsoup4==4.9.3))
+(assert ((_ at-most 1)
+  certifi==2017.11.5
+  certifi==2017.4.17
+  certifi==2017.7.27
+  certifi==2017.7.27.1
+  certifi==2018.1.18
+  certifi==2018.10.15
+  certifi==2018.11.29
+  certifi==2018.4.16
+  certifi==2018.8.13
+  certifi==2018.8.24
+  certifi==2019.11.28
+  certifi==2019.3.9
+  certifi==2019.6.16
+  certifi==2019.9.11
+  certifi==2020.11.8
+  certifi==2020.12.5
+  certifi==2020.4.5
+  certifi==2020.4.5.1
+  certifi==2020.4.5.2
+  certifi==2020.6.20
+  certifi==2021.10.8
+  certifi==2021.5.30
+  certifi==2022.12.7
+  certifi==2022.5.18
+  certifi==2022.5.18.1
+  certifi==2022.6.15
+  certifi==2022.6.15.1
+  certifi==2022.6.15.2
+  certifi==2022.9.14
+  certifi==2022.9.24
+  certifi==2023.11.17
+  certifi==2023.5.7
+  certifi==2023.7.22
+  certifi==2024.2.2))
+(assert ((_ at-most 1)
+  idna==2.10
+  idna==2.5
+  idna==2.6
+  idna==2.7
+  idna==2.8
+  idna==2.9
+  idna==3.0
+  idna==3.1
+  idna==3.2
+  idna==3.3
+  idna==3.4
+  idna==3.5
+  idna==3.6
+  idna==3.7))
+(assert ((_ at-most 1)
+  charset-normalizer==2.0.0
+  charset-normalizer==2.0.1
+  charset-normalizer==2.0.10
+  charset-normalizer==2.0.11
+  charset-normalizer==2.0.12
+  charset-normalizer==2.0.2
+  charset-normalizer==2.0.3
+  charset-normalizer==2.0.4
+  charset-normalizer==2.0.5
+  charset-normalizer==2.0.6
+  charset-normalizer==2.0.7
+  charset-normalizer==2.0.8
+  charset-normalizer==2.0.9
+  charset-normalizer==2.1.0
+  charset-normalizer==2.1.1
+  charset-normalizer==3.0.0
+  charset-normalizer==3.0.0b1
+  charset-normalizer==3.0.0b2
+  charset-normalizer==3.0.0rc1
+  charset-normalizer==3.0.1
+  charset-normalizer==3.1.0
+  charset-normalizer==3.2.0
+  charset-normalizer==3.3.0
+  charset-normalizer==3.3.1
+  charset-normalizer==3.3.2))
+(assert (let ((a!1 (or charset-normalizer==3.3.2
+               charset-normalizer==3.3.1
+               charset-normalizer==3.3.0
+               charset-normalizer==3.2.0
+               charset-normalizer==3.1.0
+               charset-normalizer==3.0.1
+               charset-normalizer==3.0.0
+               charset-normalizer==3.0.0rc1
+               charset-normalizer==3.0.0b2
+               charset-normalizer==3.0.0b1
+               charset-normalizer==2.1.1
+               charset-normalizer==2.1.0
+               charset-normalizer==2.0.12
+               charset-normalizer==2.0.11
+               charset-normalizer==2.0.10
+               charset-normalizer==2.0.9
+               charset-normalizer==2.0.8
+               charset-normalizer==2.0.7
+               charset-normalizer==2.0.6
+               charset-normalizer==2.0.5
+               charset-normalizer==2.0.4
+               charset-normalizer==2.0.3
+               charset-normalizer==2.0.2
+               charset-normalizer==2.0.1
+               charset-normalizer==2.0.0))
+      (a!2 (or idna==3.7
+               idna==3.6
+               idna==3.5
+               idna==3.4
+               idna==3.3
+               idna==3.2
+               idna==3.1
+               idna==3.0
+               idna==2.10
+               idna==2.9
+               idna==2.8
+               idna==2.7
+               idna==2.6
+               idna==2.5))
+      (a!3 (or urllib3==2.2.1
+               urllib3==2.2.0
+               urllib3==2.1.0
+               urllib3==2.0.7
+               urllib3==2.0.6
+               urllib3==2.0.5
+               urllib3==2.0.4
+               urllib3==2.0.3
+               urllib3==2.0.2
+               urllib3==2.0.1
+               urllib3==2.0.0
+               urllib3==2.0.0a4
+               urllib3==2.0.0a3
+               urllib3==2.0.0a2
+               urllib3==2.0.0a1
+               urllib3==1.26.18
+               urllib3==1.26.17
+               urllib3==1.26.16
+               urllib3==1.26.15
+               urllib3==1.26.14
+               urllib3==1.26.13
+               urllib3==1.26.12
+               urllib3==1.26.11
+               urllib3==1.26.10
+               urllib3==1.26.9
+               urllib3==1.26.8
+               urllib3==1.26.7
+               urllib3==1.26.6
+               urllib3==1.26.5
+               urllib3==1.26.4
+               urllib3==1.26.3
+               urllib3==1.26.2
+               urllib3==1.26.1
+               urllib3==1.26.0
+               urllib3==1.25.11
+               urllib3==1.25.10
+               urllib3==1.25.9
+               urllib3==1.25.8
+               urllib3==1.25.7
+               urllib3==1.25.6
+               urllib3==1.25.5
+               urllib3==1.25.4
+               urllib3==1.25.3
+               urllib3==1.25.2
+               urllib3==1.25.1
+               urllib3==1.25
+               urllib3==1.24.3
+               urllib3==1.24.2
+               urllib3==1.24.1
+               urllib3==1.24
+               urllib3==1.23
+               urllib3==1.22
+               urllib3==1.21.1))
+      (a!4 (or certifi==2024.2.2
+               certifi==2023.11.17
+               certifi==2023.7.22
+               certifi==2023.5.7
+               certifi==2022.12.7
+               certifi==2022.9.24
+               certifi==2022.9.14
+               certifi==2022.6.15.2
+               certifi==2022.6.15.1
+               certifi==2022.6.15
+               certifi==2022.5.18.1
+               certifi==2022.5.18
+               certifi==2021.10.8
+               certifi==2021.5.30
+               certifi==2020.12.5
+               certifi==2020.11.8
+               certifi==2020.6.20
+               certifi==2020.4.5.2
+               certifi==2020.4.5.1
+               certifi==2020.4.5
+               certifi==2019.11.28
+               certifi==2019.9.11
+               certifi==2019.6.16
+               certifi==2019.3.9
+               certifi==2018.11.29
+               certifi==2018.10.15
+               certifi==2018.8.24
+               certifi==2018.8.13
+               certifi==2018.4.16
+               certifi==2018.1.18
+               certifi==2017.11.5
+               certifi==2017.7.27.1
+               certifi==2017.7.27
+               certifi==2017.4.17))
+      (a!5 (or urllib3==1.26.18
+               urllib3==1.26.17
+               urllib3==1.26.16
+               urllib3==1.26.15
+               urllib3==1.26.14
+               urllib3==1.26.13
+               urllib3==1.26.12
+               urllib3==1.26.11
+               urllib3==1.26.10
+               urllib3==1.26.9
+               urllib3==1.26.8
+               urllib3==1.26.7
+               urllib3==1.26.6
+               urllib3==1.26.5
+               urllib3==1.26.4
+               urllib3==1.26.3
+               urllib3==1.26.2
+               urllib3==1.26.1
+               urllib3==1.26.0
+               urllib3==1.25.11
+               urllib3==1.25.10
+               urllib3==1.25.9
+               urllib3==1.25.8
+               urllib3==1.25.7
+               urllib3==1.25.6
+               urllib3==1.25.5
+               urllib3==1.25.4
+               urllib3==1.25.3
+               urllib3==1.25.2
+               urllib3==1.25.1
+               urllib3==1.25
+               urllib3==1.24.3
+               urllib3==1.24.2
+               urllib3==1.24.1
+               urllib3==1.24
+               urllib3==1.23
+               urllib3==1.22
+               urllib3==1.21.1)))
+  (and (or requests==2.31.0
+           requests==2.30.0
+           requests==2.29.0
+           requests==2.28.2
+           requests==2.28.1
+           requests==2.28.0
+           requests==2.27.1
+           requests==2.27.0
+           requests==2.26.0)
+       (or googlesearch_python==1.1.0)
+       (=> requests==2.31.0 a!1)
+       (=> requests==2.31.0 a!2)
+       (=> requests==2.31.0 a!3)
+       (=> requests==2.31.0 a!4)
+       (=> requests==2.30.0 a!1)
+       (=> requests==2.30.0 a!2)
+       (=> requests==2.30.0 a!3)
+       (=> requests==2.30.0 a!4)
+       (=> requests==2.29.0 a!1)
+       (=> requests==2.29.0 a!2)
+       (=> requests==2.29.0 a!5)
+       (=> requests==2.29.0 a!4)
+       (=> requests==2.28.2 a!1)
+       (=> requests==2.28.2 a!2)
+       (=> requests==2.28.2 a!5)
+       (=> requests==2.28.2 a!4)
+       (=> requests==2.28.1
+           (or charset-normalizer==3.0.0rc1
+               charset-normalizer==3.0.0b2
+               charset-normalizer==3.0.0b1
+               charset-normalizer==2.1.1
+               charset-normalizer==2.1.0
+               charset-normalizer==2.0.12
+               charset-normalizer==2.0.11
+               charset-normalizer==2.0.10
+               charset-normalizer==2.0.9
+               charset-normalizer==2.0.8
+               charset-normalizer==2.0.7
+               charset-normalizer==2.0.6
+               charset-normalizer==2.0.5
+               charset-normalizer==2.0.4
+               charset-normalizer==2.0.3
+               charset-normalizer==2.0.2
+               charset-normalizer==2.0.1
+               charset-normalizer==2.0.0))
+       (=> requests==2.28.1 a!2)
+       (=> requests==2.28.1 a!5)
+       (=> requests==2.28.1 a!4)
+       (=> requests==2.28.0 a!2)
+       (=> requests==2.28.0 a!5)
+       (=> requests==2.28.0 a!4)
+       (=> requests==2.27.1 a!5)
+       (=> requests==2.27.1 a!4)
+       (=> requests==2.27.0 a!5)
+       (=> requests==2.27.0 a!4)
+       (=> requests==2.26.0 a!5)
+       (=> requests==2.26.0 a!4)
+       (=> requests==2.25.1
+           (or chardet==4.0.0 chardet==3.0.4 chardet==3.0.3 chardet==3.0.2))
+       (=> requests==2.25.1
+           (or idna==2.10 idna==2.9 idna==2.8 idna==2.7 idna==2.6 idna==2.5))
+       (=> requests==2.25.1 a!5)
+       (=> requests==2.25.1 a!4)
+       (=> googlesearch_python==1.1.0 (or beautifulsoup4==4.9.3))
+       (=> googlesearch_python==1.1.0 (or requests==2.25.1)))))
+(assert-soft (and (not requests==2.25.1)
+     (not requests==2.26.0)
+     (not requests==2.27.0)
+     (not requests==2.27.1)
+     (not requests==2.28.0)
+     (not requests==2.28.1)
+     (not requests==2.28.2)
+     (not requests==2.29.0)
+     (not requests==2.30.0)
+     (not requests==2.31.0)) :weight 1)
+(assert-soft requests==2.26.0 :weight 0.1)
+(assert-soft requests==2.27.0 :weight 0.2)
+(assert-soft requests==2.27.1 :weight 0.3)
+(assert-soft requests==2.28.0 :weight 0.4)
+(assert-soft requests==2.28.1 :weight 0.5)
+(assert-soft requests==2.28.2 :weight 0.6)
+(assert-soft requests==2.29.0 :weight 0.7)
+(assert-soft requests==2.30.0 :weight 0.8)
+(assert-soft requests==2.31.0 :weight 0.9)
+(assert-soft (and (not googlesearch_python==1.1.0)) :weight 1)
+(assert-soft (and (not urllib3==1.21.1)
+     (not urllib3==1.22)
+     (not urllib3==1.23)
+     (not urllib3==1.24)
+     (not urllib3==1.24.1)
+     (not urllib3==1.24.2)
+     (not urllib3==1.24.3)
+     (not urllib3==1.25)
+     (not urllib3==1.25.1)
+     (not urllib3==1.25.10)
+     (not urllib3==1.25.11)
+     (not urllib3==1.25.2)
+     (not urllib3==1.25.3)
+     (not urllib3==1.25.4)
+     (not urllib3==1.25.5)
+     (not urllib3==1.25.6)
+     (not urllib3==1.25.7)
+     (not urllib3==1.25.8)
+     (not urllib3==1.25.9)
+     (not urllib3==1.26.0)
+     (not urllib3==1.26.1)
+     (not urllib3==1.26.10)
+     (not urllib3==1.26.11)
+     (not urllib3==1.26.12)
+     (not urllib3==1.26.13)
+     (not urllib3==1.26.14)
+     (not urllib3==1.26.15)
+     (not urllib3==1.26.16)
+     (not urllib3==1.26.17)
+     (not urllib3==1.26.18)
+     (not urllib3==1.26.2)
+     (not urllib3==1.26.3)
+     (not urllib3==1.26.4)
+     (not urllib3==1.26.5)
+     (not urllib3==1.26.6)
+     (not urllib3==1.26.7)
+     (not urllib3==1.26.8)
+     (not urllib3==1.26.9)
+     (not urllib3==2.0.0)
+     (not urllib3==2.0.0a1)
+     (not urllib3==2.0.0a2)
+     (not urllib3==2.0.0a3)
+     (not urllib3==2.0.0a4)
+     (not urllib3==2.0.1)
+     (not urllib3==2.0.2)
+     (not urllib3==2.0.3)
+     (not urllib3==2.0.4)
+     (not urllib3==2.0.5)
+     (not urllib3==2.0.6)
+     (not urllib3==2.0.7)
+     (not urllib3==2.1.0)
+     (not urllib3==2.2.0)
+     (not urllib3==2.2.1)) :weight 1)
+(assert-soft urllib3==1.22 :weight 0.018)
+(assert-soft urllib3==1.23 :weight 0.037)
+(assert-soft urllib3==1.24 :weight 0.056)
+(assert-soft urllib3==1.24.1 :weight 0.075)
+(assert-soft urllib3==1.24.2 :weight 0.094)
+(assert-soft urllib3==1.24.3 :weight 0.113)
+(assert-soft urllib3==1.25 :weight 0.132)
+(assert-soft urllib3==1.25.1 :weight 0.150)
+(assert-soft urllib3==1.25.10 :weight 0.169)
+(assert-soft urllib3==1.25.11 :weight 0.188)
+(assert-soft urllib3==1.25.2 :weight 0.207)
+(assert-soft urllib3==1.25.3 :weight 0.226)
+(assert-soft urllib3==1.25.4 :weight 0.245)
+(assert-soft urllib3==1.25.5 :weight 0.264)
+(assert-soft urllib3==1.25.6 :weight 0.283)
+(assert-soft urllib3==1.25.7 :weight 0.301)
+(assert-soft urllib3==1.25.8 :weight 0.320)
+(assert-soft urllib3==1.25.9 :weight 0.339)
+(assert-soft urllib3==1.26.0 :weight 0.358)
+(assert-soft urllib3==1.26.1 :weight 0.377)
+(assert-soft urllib3==1.26.10 :weight 0.396)
+(assert-soft urllib3==1.26.11 :weight 0.415)
+(assert-soft urllib3==1.26.12 :weight 0.433)
+(assert-soft urllib3==1.26.13 :weight 0.452)
+(assert-soft urllib3==1.26.14 :weight 0.471)
+(assert-soft urllib3==1.26.15 :weight 0.490)
+(assert-soft urllib3==1.26.16 :weight 0.509)
+(assert-soft urllib3==1.26.17 :weight 0.528)
+(assert-soft urllib3==1.26.18 :weight 0.547)
+(assert-soft urllib3==1.26.2 :weight 0.566)
+(assert-soft urllib3==1.26.3 :weight 0.584)
+(assert-soft urllib3==1.26.4 :weight 0.603)
+(assert-soft urllib3==1.26.5 :weight 0.622)
+(assert-soft urllib3==1.26.6 :weight 0.641)
+(assert-soft urllib3==1.26.7 :weight 0.660)
+(assert-soft urllib3==1.26.8 :weight 0.679)
+(assert-soft urllib3==1.26.9 :weight 0.698)
+(assert-soft urllib3==2.0.0 :weight 0.716)
+(assert-soft urllib3==2.0.0a1 :weight 0.735)
+(assert-soft urllib3==2.0.0a2 :weight 0.754)
+(assert-soft urllib3==2.0.0a3 :weight 0.773)
+(assert-soft urllib3==2.0.0a4 :weight 0.792)
+(assert-soft urllib3==2.0.1 :weight 0.811)
+(assert-soft urllib3==2.0.2 :weight 0.830)
+(assert-soft urllib3==2.0.3 :weight 0.849)
+(assert-soft urllib3==2.0.4 :weight 0.867)
+(assert-soft urllib3==2.0.5 :weight 0.886)
+(assert-soft urllib3==2.0.6 :weight 0.905)
+(assert-soft urllib3==2.0.7 :weight 0.924)
+(assert-soft urllib3==2.1.0 :weight 0.943)
+(assert-soft urllib3==2.2.0 :weight 0.962)
+(assert-soft urllib3==2.2.1 :weight 0.981)
+(assert-soft (and (not chardet==3.0.2)
+     (not chardet==3.0.3)
+     (not chardet==3.0.4)
+     (not chardet==4.0.0)) :weight 1)
+(assert-soft chardet==3.0.3 :weight 0.25)
+(assert-soft chardet==3.0.4 :weight 0.5)
+(assert-soft chardet==4.0.0 :weight 0.75)
+(assert-soft (and (not beautifulsoup4==4.9.3)) :weight 1)
+(assert-soft (and (not certifi==2017.11.5)
+     (not certifi==2017.4.17)
+     (not certifi==2017.7.27)
+     (not certifi==2017.7.27.1)
+     (not certifi==2018.1.18)
+     (not certifi==2018.10.15)
+     (not certifi==2018.11.29)
+     (not certifi==2018.4.16)
+     (not certifi==2018.8.13)
+     (not certifi==2018.8.24)
+     (not certifi==2019.11.28)
+     (not certifi==2019.3.9)
+     (not certifi==2019.6.16)
+     (not certifi==2019.9.11)
+     (not certifi==2020.11.8)
+     (not certifi==2020.12.5)
+     (not certifi==2020.4.5)
+     (not certifi==2020.4.5.1)
+     (not certifi==2020.4.5.2)
+     (not certifi==2020.6.20)
+     (not certifi==2021.10.8)
+     (not certifi==2021.5.30)
+     (not certifi==2022.12.7)
+     (not certifi==2022.5.18)
+     (not certifi==2022.5.18.1)
+     (not certifi==2022.6.15)
+     (not certifi==2022.6.15.1)
+     (not certifi==2022.6.15.2)
+     (not certifi==2022.9.14)
+     (not certifi==2022.9.24)
+     (not certifi==2023.11.17)
+     (not certifi==2023.5.7)
+     (not certifi==2023.7.22)
+     (not certifi==2024.2.2)) :weight 1)
+(assert-soft certifi==2017.4.17 :weight 0.029)
+(assert-soft certifi==2017.7.27 :weight 0.058)
+(assert-soft certifi==2017.7.27.1 :weight 0.088)
+(assert-soft certifi==2018.1.18 :weight 0.117)
+(assert-soft certifi==2018.10.15 :weight 0.147)
+(assert-soft certifi==2018.11.29 :weight 0.176)
+(assert-soft certifi==2018.4.16 :weight 0.205)
+(assert-soft certifi==2018.8.13 :weight 0.235)
+(assert-soft certifi==2018.8.24 :weight 0.264)
+(assert-soft certifi==2019.11.28 :weight 0.294)
+(assert-soft certifi==2019.3.9 :weight 0.323)
+(assert-soft certifi==2019.6.16 :weight 0.352)
+(assert-soft certifi==2019.9.11 :weight 0.382)
+(assert-soft certifi==2020.11.8 :weight 0.411)
+(assert-soft certifi==2020.12.5 :weight 0.441)
+(assert-soft certifi==2020.4.5 :weight 0.470)
+(assert-soft certifi==2020.4.5.1 :weight 0.5)
+(assert-soft certifi==2020.4.5.2 :weight 0.529)
+(assert-soft certifi==2020.6.20 :weight 0.558)
+(assert-soft certifi==2021.10.8 :weight 0.588)
+(assert-soft certifi==2021.5.30 :weight 0.617)
+(assert-soft certifi==2022.12.7 :weight 0.647)
+(assert-soft certifi==2022.5.18 :weight 0.676)
+(assert-soft certifi==2022.5.18.1 :weight 0.705)
+(assert-soft certifi==2022.6.15 :weight 0.735)
+(assert-soft certifi==2022.6.15.1 :weight 0.764)
+(assert-soft certifi==2022.6.15.2 :weight 0.794)
+(assert-soft certifi==2022.9.14 :weight 0.823)
+(assert-soft certifi==2022.9.24 :weight 0.852)
+(assert-soft certifi==2023.11.17 :weight 0.882)
+(assert-soft certifi==2023.5.7 :weight 0.911)
+(assert-soft certifi==2023.7.22 :weight 0.941)
+(assert-soft certifi==2024.2.2 :weight 0.970)
+(assert-soft (and (not idna==2.10)
+     (not idna==2.5)
+     (not idna==2.6)
+     (not idna==2.7)
+     (not idna==2.8)
+     (not idna==2.9)
+     (not idna==3.0)
+     (not idna==3.1)
+     (not idna==3.2)
+     (not idna==3.3)
+     (not idna==3.4)
+     (not idna==3.5)
+     (not idna==3.6)
+     (not idna==3.7)) :weight 1)
+(assert-soft idna==2.5 :weight 0.071)
+(assert-soft idna==2.6 :weight 0.142)
+(assert-soft idna==2.7 :weight 0.214)
+(assert-soft idna==2.8 :weight 0.285)
+(assert-soft idna==2.9 :weight 0.357)
+(assert-soft idna==3.0 :weight 0.428)
+(assert-soft idna==3.1 :weight 0.5)
+(assert-soft idna==3.2 :weight 0.571)
+(assert-soft idna==3.3 :weight 0.642)
+(assert-soft idna==3.4 :weight 0.714)
+(assert-soft idna==3.5 :weight 0.785)
+(assert-soft idna==3.6 :weight 0.857)
+(assert-soft idna==3.7 :weight 0.928)
+(assert-soft (and (not charset-normalizer==2.0.0)
+     (not charset-normalizer==2.0.1)
+     (not charset-normalizer==2.0.10)
+     (not charset-normalizer==2.0.11)
+     (not charset-normalizer==2.0.12)
+     (not charset-normalizer==2.0.2)
+     (not charset-normalizer==2.0.3)
+     (not charset-normalizer==2.0.4)
+     (not charset-normalizer==2.0.5)
+     (not charset-normalizer==2.0.6)
+     (not charset-normalizer==2.0.7)
+     (not charset-normalizer==2.0.8)
+     (not charset-normalizer==2.0.9)
+     (not charset-normalizer==2.1.0)
+     (not charset-normalizer==2.1.1)
+     (not charset-normalizer==3.0.0)
+     (not charset-normalizer==3.0.0b1)
+     (not charset-normalizer==3.0.0b2)
+     (not charset-normalizer==3.0.0rc1)
+     (not charset-normalizer==3.0.1)
+     (not charset-normalizer==3.1.0)
+     (not charset-normalizer==3.2.0)
+     (not charset-normalizer==3.3.0)
+     (not charset-normalizer==3.3.1)
+     (not charset-normalizer==3.3.2)) :weight 1)
+(assert-soft charset-normalizer==2.0.1 :weight 0.04)
+(assert-soft charset-normalizer==2.0.10 :weight 0.08)
+(assert-soft charset-normalizer==2.0.11 :weight 0.12)
+(assert-soft charset-normalizer==2.0.12 :weight 0.16)
+(assert-soft charset-normalizer==2.0.2 :weight 0.2)
+(assert-soft charset-normalizer==2.0.3 :weight 0.24)
+(assert-soft charset-normalizer==2.0.4 :weight 0.28)
+(assert-soft charset-normalizer==2.0.5 :weight 0.32)
+(assert-soft charset-normalizer==2.0.6 :weight 0.36)
+(assert-soft charset-normalizer==2.0.7 :weight 0.4)
+(assert-soft charset-normalizer==2.0.8 :weight 0.44)
+(assert-soft charset-normalizer==2.0.9 :weight 0.48)
+(assert-soft charset-normalizer==2.1.0 :weight 0.52)
+(assert-soft charset-normalizer==2.1.1 :weight 0.56)
+(assert-soft charset-normalizer==3.0.0 :weight 0.6)
+(assert-soft charset-normalizer==3.0.0b1 :weight 0.64)
+(assert-soft charset-normalizer==3.0.0b2 :weight 0.68)
+(assert-soft charset-normalizer==3.0.0rc1 :weight 0.72)
+(assert-soft charset-normalizer==3.0.1 :weight 0.76)
+(assert-soft charset-normalizer==3.1.0 :weight 0.8)
+(assert-soft charset-normalizer==3.2.0 :weight 0.84)
+(assert-soft charset-normalizer==3.3.0 :weight 0.88)
+(assert-soft charset-normalizer==3.3.1 :weight 0.92)
+(assert-soft charset-normalizer==3.3.2 :weight 0.96)
+(check-sat)

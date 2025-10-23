@@ -1,0 +1,10 @@
+2025-10-16 22:49:08,608 - INFO - Input files successfully read.
+2025-10-16 22:49:08,608 - INFO - Reading files execution time: 0.53 seconds
+2025-10-16 22:49:08,616 - INFO - Parsing requirements execution time: 0.01 seconds
+2025-10-16 22:49:08,633 - INFO - Fetching dependencies execution time: 0.02 seconds
+2025-10-16 22:49:09,550 - INFO - Generating SMT expression execution time: 0.20 seconds
+2025-10-16 22:49:09,577 - INFO - SMT expression saved to: .\example_1\SMT_expression.txt
+2025-10-16 22:49:09,608 - INFO - Solving SMT expression execution time: 0.03 seconds
+2025-10-16 22:49:09,608 - INFO - Solution saved to: .\example_1\log.txt
+2025-10-16 22:49:09,638 - INFO - Generating install_script.txt execution time: 0.01 seconds
+2025-10-16 22:49:09,638 - INFO - install_script.txt generated successfully.

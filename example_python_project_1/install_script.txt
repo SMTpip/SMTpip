@@ -1,0 +1,8 @@
+# Specify Python version
+
+python_version=="3.13.0"
+
+# List of package dependencies
+six==1.16.0
+pip-tools==4.4.0
+click==6.6

@@ -1,0 +1,4 @@
+idna>=3
+click==6.6
+requests==2.22.0
+pip-tools<4.4.1
