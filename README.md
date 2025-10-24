@@ -41,7 +41,7 @@ SMTpip is ready to use.
 ## How to Use SMTpip
 There are 3 example Python projects named `example_python_project`. Each `example_python_project` folder contains a `program.py` and `requirements.txt` file.
 
-###                 -----------------------Example 1-----------------------
+###                 -----------------------[Example 1]-----------------------
 The `requirements.txt` contains
 
 ```bash
@@ -85,7 +85,7 @@ click==6.6
 A dependency conflict occurs because the project explicitly requires click==6.6, while pip-tools (≥4.0.0)—specifically its latest version 7.4.1—depends on click≥8.0. This transitive dependency creates an incompatibility. To resolve it, To resolve it, SMTpip finds a version of pip-tools without conflicts (here, pip-tools 4.4.0).
 
 
-###                -----------------------Example 2-----------------------
+###                -----------------------[Example 2]-----------------------
 The `requirements.txt` contains
 ```bash
 oauthlib==2.*
@@ -103,7 +103,7 @@ After running the command three files will be generated:
 #### Example 2 explaination:
 A dependency conflict occurs because the project explicitly requires oauthlib==2.*, while jupyterhub (>=0.8)—specifically its latest version 4.1.5—depends on oauthlib>=3.0. This transitive dependency creates an incompatibility. To resolve it, SMTpip finds a version of jupyterhub without conflicts (here, jupyterhub 0.9.1).
 
-###                 -----------------------Example 3-----------------------
+###                 -----------------------[Example 3]-----------------------
 The `requirements.txt` contains
 ```bash
 requests>=2.26.0 
@@ -123,7 +123,7 @@ After running the command three files will be generated:
 A dependency conflict arises because the project requires requests ≥ 2.26.0, while googlesearch-python == 1.1.0 depends on requests ≤ 2.25.1. This incompatibility stems from googlesearch-python’s transitive dependency on an older version of requests. SMTpip detects a dependency conflict and shows `Not satisfiable.`
 
 
-###                 -----------------------Example 4-----------------------
+###                 -----------------------[Example 4]-----------------------
 The `requirements.txt` contains
 ```bash
 idna>=3
